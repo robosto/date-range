@@ -1,15 +1,11 @@
 {
   "author": {
-    "name": "robosto"
-  },
-  "bugs": {
-    "url": "https://github.com/robosto/date-range/issues"
+    "name": "Robosto"
   },
   "dependencies": {
     "moment": "^2.24.0"
   },
   "description": "So this is how it will work",
-  "homepage": "https://github.com/robosto/date-range#readme",
   "keywords": [
     "timeseries",
     "momentjs",
